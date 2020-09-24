@@ -1,0 +1,40 @@
+#main {
+    background-image: linear-gradient(to right, rgba(253, 177, 222, .2), rgb(235, 253, 205));
+}
+.navbar {
+    background-image: linear-gradient(to right, rgba(253, 177, 222, .2), rgb(235, 253, 205));
+}
+.footer {
+    background-image: linear-gradient(to right, rgba(253, 177, 222, .2), rgb(235, 253, 205));
+}
+
+.testimonial-wrap {
+    background-image: linear-gradient(to right, rgba(255, 177, 222, 0.07), rgb(235, 253, 205));
+}
+.form-control {
+    border: 1px solid;
+}
+
+h2 {
+    font-family: 'Sacramento', cursive;
+}
+#maternity-title {
+    font-family: 'Sacramento', cursive;
+}
+
+.home-gallery {
+    width: 380px;
+    height: 250px;
+}
+#about {
+    font-family: 'Lora', serif;
+}
+.profile-pic {
+    border-radius: 75%;
+}
+.service-photo{
+    
+    max-height: 360px;
+}
+
+
